@@ -4,7 +4,7 @@
     <div class="personalSkillsCard">
       <div class="headerContainer">
         <div class="">
-          <img src="../../../assets/images/skill.png" class="skillIlustration" alt="profile">
+          <img src="@/assets/images/skill.png" class="skillIlustration" alt="profile">
         </div>
         <div class="cardTitles">
           <div class="headerTitle">Skills</div>

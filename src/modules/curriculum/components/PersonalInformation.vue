@@ -3,7 +3,7 @@
   <div>
     <div class="personalInfoCard">
       <div class="iconContainer">
-        <img src="../../../assets/images/profileRafa.png" class="profileImg" alt="profile">
+        <img src="@/assets/images/profileRafa.png" class="profileImg" alt="profile">
       </div>
       <div class="contactContainer">
         <span class="username">Rafael Sánchez</span>

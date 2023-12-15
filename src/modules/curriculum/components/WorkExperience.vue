@@ -4,7 +4,7 @@
     <div class="experiencieCard">
       <div class="headerContainer">
         <div class="">
-          <img src="../../../assets/images/feedback.png" class="worklustration" alt="profile">
+          <img src="@/assets/images/feedback.png" class="worklustration" alt="profile">
         </div>
         <div class="cardTitles">
           <div class="headerTitle">Experiencia</div>
